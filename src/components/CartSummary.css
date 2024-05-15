@@ -1,0 +1,8 @@
+.cartNotEmpty,
+.cartEmpty {
+  display: flex;
+}
+
+.precio {
+  padding: 1rem;
+}

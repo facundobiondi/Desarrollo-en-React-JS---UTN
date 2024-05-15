@@ -1,0 +1,22 @@
+.productTitle {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 0.5rem;
+    border-radius: 8px;
+}
+
+img {
+    max-width: 35%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.productDescrip { 
+    background-color: antiquewhite;
+    border-radius: 8px;
+}
+
+.productPrice {
+    background-color: rgb(201, 196, 189);
+    border-radius: 8px;
+}

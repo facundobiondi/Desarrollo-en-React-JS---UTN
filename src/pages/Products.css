@@ -1,0 +1,15 @@
+.productsTile {
+    align-items: center;
+}
+
+.container {
+    display: grid;
+    padding: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 92vh;
+    margin: 0;
+}
+

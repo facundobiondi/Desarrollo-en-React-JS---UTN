@@ -1,0 +1,5 @@
+.navbar ,.navbarHome, .navbarProductos, .navbarLogin {
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 8px;
+}
